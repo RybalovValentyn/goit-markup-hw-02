@@ -8,13 +8,12 @@
     margin: 0px;
     padding: 0px;}
 body {
-    font-family: roboto ,sans-serif;}
+    font-family: roboto ,sans-serif;
+    background-color: #FFFFFF;}
 li {
     list-style: none;}
 a {
     text-decoration: none;}
-body head {
-    background-color: #FFFFFF;}
 /* site-nav */
 .navigation {    
     color: var(--link-color);
