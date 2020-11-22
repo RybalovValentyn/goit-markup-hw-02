@@ -150,18 +150,10 @@ h2 {
 .section-team {
     background-color: #F5F4FA;
 }
-.section-card {
-
-}
-.profi-card {
-
-}
-.name {
-
-}
-.proffesion {
-
-}
+/* .section-card {} */
+/* .profi-card {} */
+/* .name {} */
+/* .proffesion {} */
 .proffesion>h3 {
 color: var(--link-color) ;
 /* text-align: center; */
@@ -255,10 +247,7 @@ letter-spacing: 0.03em;
     line-height: 30px;
     text-align: left;
 }
-.works {
-    /* background-color: var(--white-color); */
-
-}
+/* .works { background-color: var(--white-color);} */
 /* 
 212121  #2196F3   FFFFFF
  text 757575
